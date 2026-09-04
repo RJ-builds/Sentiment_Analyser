@@ -8,7 +8,7 @@ Classifies movie reviews as Positive or Negative using TF-IDF + Logistic Regress
 
 ## Setup
 1. Download "IMDB Dataset of 50K Movie Reviews" from Kaggle
-2. Place it in this folder, named `IMDB Dataset.csv`
+2. Place it in this folder, named `IMDB_Dataset.csv`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run: `python Sentiment_Model.py`
 
